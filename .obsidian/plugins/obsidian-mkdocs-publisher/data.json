@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "parthvirani-oceanmtech",
+    "repo": "parthvirani-notes-2",
     "branch": "main",
     "automaticallyMergePR": true,
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
@@ -14,8 +14,8 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4979
   },
   "upload": {
     "behavior": "fixed",
@@ -48,10 +48,10 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
-      "wiki": false,
-      "slugify": false
+      "wiki": true,
+      "slugify": true
     }
   },
   "embed": {
