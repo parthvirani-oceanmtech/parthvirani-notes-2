@@ -1,8 +1,8 @@
 ---
 created: 2023-09-15T21:33:06+05:30
-updated: 2023-09-16T11:01:56+05:30
+updated: 2023-09-16T12:37:35+05:30
+title: Best Coding Practice to Follow in Oceanmtech
 ---
-**
 
 1.  Kyarey setState use nathi karavanu always proper state managment use karvanu che.
     
@@ -85,4 +85,3 @@ updated: 2023-09-16T11:01:56+05:30
 	-  Read More - [[Explain Use Version Control]]
     
 Remember that good code practices may vary depending on the project and team, but these guidelines can serve as a solid foundation for writing clean and maintainable Flutter code.
-**
