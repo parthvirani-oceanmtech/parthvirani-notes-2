@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:43:35+05:30
-updated: 2023-09-15T21:43:35+05:30
+updated: 2023-09-16T13:12:51+05:30
+title: Use Descriptive Variable and Function Names
+share: "true"
 ---
 "Use Descriptive Variable and Function Names" is a fundamental coding practice that involves choosing meaningful and informative names for variables, functions, methods, classes, and other identifiers in your code. The goal is to make your code more readable, self-explanatory, and maintainable by conveying the purpose and functionality of these elements through their names. This practice is crucial in Dart and Flutter development, as it enhances code understanding and collaboration. Here's why it's important and how to implement it effectively:
 

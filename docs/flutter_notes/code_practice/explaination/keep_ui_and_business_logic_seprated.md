@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:35:21+05:30
-updated: 2023-09-15T21:35:21+05:30
+updated: 2023-09-16T13:13:03+05:30
+title: Keep UI and Business Logic Separated
+share: "true"
 ---
 "Keep UI and Business Logic Separated" is a fundamental principle in software development that advocates for a clear separation between the user interface (UI) and the business logic of an application. This separation, often referred to as the Model-View-Controller (MVC), Model-View-Presenter (MVP), or Model-View-ViewModel (MVVM) architecture, helps improve the maintainability, testability, and scalability of your Flutter application.
 

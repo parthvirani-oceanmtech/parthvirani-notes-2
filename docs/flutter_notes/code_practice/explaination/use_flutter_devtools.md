@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:35:36+05:30
-updated: 2023-09-15T21:35:36+05:30
+updated: 2023-09-16T13:12:49+05:30
+title: Use Flutter DevTools
+share: "true"
 ---
 Flutter DevTools is a suite of developer tools and utilities provided by the Flutter team to assist developers in building, debugging, profiling, and analyzing Flutter applications. DevTools offers a range of features and capabilities that help streamline the development process and improve the overall quality of your Flutter apps. Here's an explanation of some of the key features and how to use them:
 

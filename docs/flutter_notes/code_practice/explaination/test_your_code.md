@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:35:52+05:30
-updated: 2023-09-15T21:35:52+05:30
+updated: 2023-09-16T13:12:54+05:30
+title: Test Your Code
+share: "true"
 ---
 "Test Your Code" is a crucial practice in software development, including Flutter development, that involves systematically creating and running tests to verify that your code behaves as expected. Testing helps ensure that your application works correctly, remains reliable during updates, and can be maintained more easily. In the context of Flutter, there are different types of tests you can write:
 

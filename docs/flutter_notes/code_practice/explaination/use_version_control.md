@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:43:04+05:30
-updated: 2023-09-15T21:43:04+05:30
+updated: 2023-09-16T13:12:44+05:30
+title: Use Version Control
+share: "true"
 ---
 "Use Version Control" is a fundamental best practice in software development, including Flutter development. Version control systems (VCS) are tools that help you manage and track changes to your codebase over time. Flutter developers often use Git, a distributed version control system, to implement this practice. Here's an explanation of why version control is crucial and how to use it effectively in your Flutter projects:
 

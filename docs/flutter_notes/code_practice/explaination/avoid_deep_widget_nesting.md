@@ -1,7 +1,10 @@
 ---
-created: 2023-09-15T21:35:03+05:30
-updated: 2023-09-15T21:35:03+05:30
+created: 2023-09-15T21:33:06+05:30
+updated: 2023-09-16T13:13:07+05:30
+title: Avoid Deep Widget Nesting
+share: "true"
 ---
+
 "Avoid Deep Widget Nesting" is a best practice in Flutter development that suggests minimizing the depth of widget hierarchies in your user interface (UI) to improve code readability, performance, and maintainability. Deep widget nesting occurs when you have a complex hierarchy of nested widgets, making your code harder to understand and potentially leading to performance issues.
 
 Here's why you should avoid deep widget nesting and some tips on how to do so:

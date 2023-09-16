@@ -1,7 +1,10 @@
 ---
 created: 2023-09-15T21:42:35+05:30
-updated: 2023-09-15T21:42:35+05:30
+updated: 2023-09-16T13:13:12+05:30
+title: Explain Analyse and Format Your Code
+share: "true"
 ---
+
 "Analyse and Format Your Code" are essential practices in software development, including Flutter development, that involve reviewing your code for potential issues, errors, and style inconsistencies while also ensuring that your code adheres to a consistent and readable format. These practices help maintain code quality, readability, and consistency throughout your projects. Here's a breakdown of these two practices:
 
 **Analyze Your Code**:

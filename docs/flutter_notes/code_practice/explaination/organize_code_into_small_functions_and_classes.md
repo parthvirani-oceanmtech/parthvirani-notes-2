@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:43:52+05:30
-updated: 2023-09-15T21:43:52+05:30
+updated: 2023-09-16T13:13:01+05:30
+title: Organize Code into Small Functions and Classes
+share: "true"
 ---
 "Organize Code into Small Functions and Classes" is a best practice in software development, including Dart and Flutter development, that involves breaking down your code into smaller, more focused functions and classes. The goal is to improve code readability, maintainability, and reusability while reducing complexity. This practice aligns with the principles of modular programming and the Single Responsibility Principle (SRP) from SOLID design principles. Here's why it's important and how to implement it effectively:
 

@@ -1,7 +1,10 @@
 ---
 created: 2023-09-15T21:42:51+05:30
-updated: 2023-09-15T21:42:51+05:30
+updated: 2023-09-16T13:13:10+05:30
+title: Document Your Code
+share: "true"
 ---
+
 "Document Your Code" is a crucial best practice in software development, including Flutter development. It involves adding comments, annotations, and documentation to your code to make it more understandable and maintainable for both yourself and other developers who may work on the project. Proper documentation helps convey the purpose, usage, and implementation details of your code. Here's why documenting your code is important and how to do it effectively:
 
 **Why Document Your Code**:

@@ -1,6 +1,8 @@
 ---
 created: 2023-09-15T21:44:09+05:30
-updated: 2023-09-15T21:44:09+05:30
+updated: 2023-09-16T13:12:59+05:30
+title: Properly Comment Your Code
+share: "true"
 ---
 "Properly Comment Your Code" is a coding practice that involves adding comments and documentation to your source code to provide explanations, context, and additional information about the code's functionality. Well-placed comments make your code more understandable and maintainable, especially for yourself and other developers who may work on the codebase in the future. Here's why it's important and how to do it effectively:
 
