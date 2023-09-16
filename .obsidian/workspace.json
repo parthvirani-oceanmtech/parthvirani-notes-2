@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "26fdf9ea4f74b89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e357f25fdb7cb09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50aea7553c1e0cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/flutter_notes/code_practice/Best Coding Practice to Follow in Oceanmtech.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d920da8f4e67c64c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8d72532512b4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71e8a0ead85061d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bbc693ad173d10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79b440a32e52e8a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccdfe0a0a0ba6c25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "7d0af36ae4a5ca0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a0f66f41d9070e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b4c5df9f8f9039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/flutter_notes/code_practice/Best Coding Practice to Follow in Oceanmtech.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73ffe24bc8f2c88c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "948a0e37456e251d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/flutter_notes/code_practice/Best Coding Practice to Follow in Oceanmtech.md"
+              }
+            }
+          },
+          {
+            "id": "8fb77f4a15fd5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a319bdc7c418eb2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c4640b522747350",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "50aea7553c1e0cd1",
+  "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper/Getting Started./index.html",
+    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper/Getting Started.",
+    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper",
+    "site/Parth Notes/Pre-Requisites/Linux Journeys",
+    "site/Parth Notes/Pre-Requisites",
+    "site/Parth Notes",
+    "site/Notes/Static Site Generators/Static Site Generators/index.html",
+    "site/Notes/Static Site Generators/Portfolio/index.html",
+    "site/Notes/Static Site Generators/Note Sharing/index.html",
+    "site/assets/images/favicon.png",
+    "site/Notes/attachments/Pasted image 20220926132925.png",
+    "site/Notes/attachments/Pasted image 20220926130250.png",
+    "site/Notes/attachments/Pasted image 20220926122851.png",
+    "site/Notes/attachments/Pasted image 20220923222223.png",
+    "site/Notes/attachments/Pasted image 20220923184838.png",
+    "site/Notes/attachments/Pasted image 20220923184423.png",
+    "site/Notes/attachments/Pasted image 20220923184027.png",
+    "site/Notes/attachments/Pasted image 20220923183645.png",
+    "site/Notes/attachments/Pasted image 20220923170352.png",
+    "docs/index.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Use Proper Widget Composition.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Use Flutter DevTools.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Test Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Stay Up-to-Date.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Keep UI and Business Logic Separated.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Version Control.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Descriptive Variable and Function Names.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Properly Comment Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Organize Code into Small Functions and Classes.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Follow the Dart Style Guide.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Document Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Analyse and Format Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Avoid Deep Widget Nesting.md",
+    "docs/Flutter Notes/Code Practice/Use Proper Widget Composition.md",
+    "docs/Flutter Notes/Code Practice/Use Flutter DevTools.md",
+    "docs/Flutter Notes/Code Practice/Test Your Code.md",
+    "docs/Flutter Notes/Code Practice/Stay Up-to-Date.md",
+    "docs/Flutter Notes/Code Practice/Keep UI and Business Logic Separated.md",
+    "docs/Flutter Notes/Code Practice/Explain Use Version Control.md",
+    "docs/Flutter Notes/Code Practice/Explain Use Descriptive Variable and Function Names.md",
+    "docs/Flutter Notes/Code Practice/Explain Properly Comment Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explain Organize Code into Small Functions and Classes.md",
+    "docs/Flutter Notes/Code Practice/Explain Follow the Dart Style Guide.md",
+    "docs/Flutter Notes/Code Practice/Explain Document Your Code.md"
+  ]
+}
