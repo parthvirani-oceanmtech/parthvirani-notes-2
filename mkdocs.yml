@@ -1,6 +1,7 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Parth Virani Notes # Change this to your site name
+site_description: A cool notes to share your flutter developement future.
+
+site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/ # Change this to your site URL
 
 theme:
     name: 'material'

@@ -75,6 +75,10 @@
     },
     "noticeError": false,
     "displayModalRepoEditing": false,
-    "migrated": true
+    "migrated": true,
+    "shareAll": {
+      "enable": true,
+      "excludedFileName": "DRAFT"
+    }
   }
 }
