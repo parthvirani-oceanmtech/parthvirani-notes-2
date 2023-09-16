@@ -5,8 +5,6 @@ site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/ # Change
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -18,7 +16,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
-      accent: light blue
+      accent: purple 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -26,7 +24,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: teal
       accent: indigo
       toggle:
         icon: material/toggle-switch
@@ -38,8 +36,28 @@ theme:
         - navigation.tabs.sticky
         - navigation.expand
         - search.suggest
+        - navigation.instant
+        - toc.integrate
+        - content.tabs.link
+        - content.code.annotation
+        - content.code.copy
         - search.highlight
-        
+        - navigation.instant.prefetch
+        - navigation.tracking
+        - navigation.tabs.sticky
+        - navigation.sections
+        - navigation.path
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/parthvirani-oceanmtech/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/parthvirani95?lang=en
+    - icon: fontawesome/brands/linkedin
+      link: https://in.linkedin.com/in/parthvirani/
+
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -79,6 +97,7 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
+  - social
   - search
   - meta-descriptions
   - git-revision-date-localized:
@@ -136,3 +155,7 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/parthvirani-oceanmtech"  target="_blank" rel="noopener">Parth Virani Oceanmtech Pvt Ltd</a>
