@@ -10,7 +10,7 @@ They make your code more concise, so you can avoid repeating long type names. ğŸ
 
 Particularly useful useful for long function arguments or complex types with generics. ğŸ‘
 
-![](074.0.png)
+![](../0074-pass-functions-as-arguments/074.0.png)
 
  
 

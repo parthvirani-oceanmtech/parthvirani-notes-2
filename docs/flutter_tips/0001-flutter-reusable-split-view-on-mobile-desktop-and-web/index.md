@@ -1,8 +1,12 @@
 ---
 created: 2023-09-18T13:54:35+05:30
-updated: 2023-09-18T13:54:35+05:30
+updated: 2023-09-18T16:24:16+05:30
 ---
-# Flutter reusable Split View on mobile, desktop and web
+
+[[#Flutter reusable Split View on mobile, desktop and web|Flutter reusable Split View on mobile, desktop and web]]
+
+
+## Flutter reusable Split View on mobile, desktop and web
 
 [#FlutterDev](https://twitter.com/hashtag/FlutterDev?src=hashtag_click) Wanna create a reusable split-view widget that works on mobile, desktop and web?
 

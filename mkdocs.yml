@@ -89,6 +89,8 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+      title: On this page
+      toc_depth: 3
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences:

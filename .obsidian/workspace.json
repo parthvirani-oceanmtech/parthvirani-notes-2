@@ -11,8 +11,12 @@
             "id": "fd632a5fc8f7b8d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md"
+              }
             }
           },
           {
@@ -165,53 +172,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fd632a5fc8f7b8d2",
+  "active": "f71e8a0ead85061d",
   "lastOpenFiles": [
-    "docs/flutter_notes/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
-    "docs/flutter_notes/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
-    "docs/flutter_notes/flutter_tips/0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md",
-    "docs/flutter_notes/flutter_tips/0020-how-to-configure-multiple-firebase-environments-with-flutterfire-cli/index.md",
-    "docs/flutter_notes/flutter_tips/0009-chat-ui-with-message-bubbles-revisited/index.md",
-    "docs/flutter_notes/flutter_tips/0030-vscode-launch-configurations/index.md",
-    "docs/flutter_notes/flutter_tips/0024-simplified-flutter-app-localization/index.md",
-    "docs/flutter_notes/flutter_tips/0029-domain-driven-exception-handling/index.md",
-    "docs/flutter_notes/flutter_tips/0021-repositories-as-abstract-classes/index.md",
-    "docs/flutter_notes/flutter_tips/0032-flutter-tip-use-composition-aggressively/index.md",
-    "docs/flutter_notes/flutter_tips/0027-better-comments-extension-for-vscode/index.md",
-    "docs/flutter_notes/flutter_tips/0074-pass-functions-as-arguments/index.md",
-    "docs/flutter_notes/flutter_tips/0069-sizedbox-shrink/index.md",
-    "docs/flutter_notes/flutter_tips/0071-const-vs-final-vs-var/index.md",
-    "docs/flutter_notes/flutter_tips/0077-animatedcontainer/index.md",
-    "docs/flutter_notes/flutter_tips/0076-sticky-scroll-vscode/index.md",
-    "docs/flutter_notes/flutter_tips/0083-version-lens-vscode/index.md",
-    "docs/flutter_notes/flutter_tips/0079-string-multiplication/index.md",
-    "docs/flutter_notes/flutter_tips/0078-file-nesting-vscode/index.md",
-    "docs/flutter_notes/flutter_tips/0080-future.wait/index.md",
-    "docs/flutter_notes/flutter_tips/0085-chatgpt-styling/index.md",
-    "docs/flutter_notes/flutter_tips/0086-firebase-docs-dart-samples/index.md",
-    "docs/flutter_notes/flutter_tips/0003-accept-payments-with-the-stripe-sdk/index.md",
-    "docs/flutter_notes/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
-    "docs/flutter_notes/flutter_tips/0087-accessibility-tools/index.md",
-    "docs/flutter_notes/flutter_tips/0091-dart-fix-apply/index.md",
-    "docs/flutter_notes/flutter_tips/0114-minimize-firebase-bill/index.md",
-    "docs/flutter_notes/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
-    "docs/flutter_notes/flutter_tips/0119-constructor-required-named-vsassist/119.png",
-    "docs/flutter_notes/flutter_tips/0120-set-html-window-url/main.dart",
-    "docs/flutter_notes/flutter_tips/0120-set-html-window-url/120.png",
-    "docs/flutter_notes/flutter_tips/0117-are-global-variables-bad/main.dart",
-    "docs/flutter_notes/flutter_tips/0117-are-global-variables-bad/117.png",
-    "docs/flutter_notes/flutter_tips/0116-measure-time/116.1.png",
-    "docs/flutter_notes/flutter_tips/0118-network-view-devtools/118.png",
-    "docs/flutter_notes/flutter_tips/0116-measure-time/main.dart",
-    "docs/flutter_notes/flutter_tips/0116-measure-time/116.2.png",
-    "docs/flutter_notes/flutter_tips/0116-measure-time/116-square.png",
-    "docs/flutter_notes/flutter_tips/0115-switch-newline/main.dart",
-    "docs/flutter_notes/flutter_tips/0115-switch-newline/115.2.png",
-    "docs/flutter_notes/flutter_tips/0115-switch-newline/115.1.png",
-    "docs/flutter_notes/flutter_tips/0114-minimize-firebase-bill/114.4-square.png",
-    "docs/flutter_notes/flutter_tips/0113-conditional-json-parsing/main.dart",
-    "docs/flutter_notes/flutter_tips/0108-media-query-inherited-model/main.dart",
-    "docs/flutter_notes/flutter_tips/0112-switch-matrix/main.dart",
-    "docs/flutter_notes/flutter_tips/0110-riverpod-watch-future-provider/main.dart"
+    "docs/flutter_notes/flutter_tips/index.md",
+    "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
+    "docs/flutter_notes/code_practice/explaination/avoid_deep_widget_nesting.md",
+    "docs/flutter_notes/code_practice/explaination/keep_ui_and_business_logic_seprated.md",
+    "docs/flutter_tips/0004-flutter-lints-package/index.md",
+    "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
+    "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
+    "docs/flutter_tips/0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md",
+    "docs/flutter_tips/0020-how-to-configure-multiple-firebase-environments-with-flutterfire-cli/index.md",
+    "docs/flutter_tips/0009-chat-ui-with-message-bubbles-revisited/index.md",
+    "docs/flutter_tips/0030-vscode-launch-configurations/index.md",
+    "docs/flutter_tips/0024-simplified-flutter-app-localization/index.md",
+    "docs/flutter_tips/0029-domain-driven-exception-handling/index.md",
+    "docs/flutter_tips/0021-repositories-as-abstract-classes/index.md",
+    "docs/flutter_tips/0032-flutter-tip-use-composition-aggressively/index.md",
+    "docs/flutter_tips/0027-better-comments-extension-for-vscode/index.md",
+    "docs/flutter_tips/0074-pass-functions-as-arguments/index.md",
+    "docs/flutter_tips/0069-sizedbox-shrink/index.md",
+    "docs/flutter_tips/0071-const-vs-final-vs-var/index.md",
+    "docs/flutter_tips/0077-animatedcontainer/index.md",
+    "docs/flutter_tips/0076-sticky-scroll-vscode/index.md",
+    "docs/flutter_tips/0083-version-lens-vscode/index.md",
+    "docs/flutter_tips/0079-string-multiplication/index.md",
+    "docs/flutter_tips/0078-file-nesting-vscode/index.md",
+    "docs/flutter_tips/0080-future.wait/index.md",
+    "docs/flutter_tips/0085-chatgpt-styling/index.md",
+    "docs/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
+    "docs/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
+    "docs/flutter_tips/0119-constructor-required-named-vsassist/119.png",
+    "docs/flutter_tips/0120-set-html-window-url/main.dart",
+    "docs/flutter_tips/0120-set-html-window-url/120.png",
+    "docs/flutter_tips/0117-are-global-variables-bad/main.dart",
+    "docs/flutter_tips/0117-are-global-variables-bad/117.png",
+    "docs/flutter_tips/0116-measure-time/116.1.png",
+    "docs/flutter_tips/0118-network-view-devtools/118.png",
+    "docs/flutter_tips/0116-measure-time/main.dart",
+    "docs/flutter_tips/0116-measure-time/116.2.png",
+    "docs/flutter_tips/0116-measure-time/116-square.png",
+    "docs/flutter_tips/0115-switch-newline/main.dart",
+    "docs/flutter_tips/0115-switch-newline/115.2.png",
+    "docs/flutter_tips/0115-switch-newline/115.1.png",
+    "docs/flutter_tips/0114-minimize-firebase-bill/114.4-square.png",
+    "docs/flutter_tips/0113-conditional-json-parsing/main.dart",
+    "docs/flutter_tips/0108-media-query-inherited-model/main.dart",
+    "docs/flutter_tips/0112-switch-matrix/main.dart",
+    "docs/flutter_tips/0110-riverpod-watch-future-provider/main.dart"
   ]
 }

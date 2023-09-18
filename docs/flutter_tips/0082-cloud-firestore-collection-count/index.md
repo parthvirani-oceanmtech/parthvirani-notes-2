@@ -10,7 +10,7 @@ Aggregate queries work like normal queries.
 
 But they return an AggregateQuerySnapshot that contains metadata (such as count), instead of actual documents. 🧮
 
-![](./082.png)
+![](082.png)
 
  
 
