@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b78ac4900dc672",
+        "id": "4e79a17a3e0416e7",
         "type": "tabs",
         "children": [
           {
-            "id": "944f249866d27b38",
+            "id": "96b8504379782a63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/flutter_notes/code_practice/best_coding_pratice_to_follow_in_oceanmtech.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -50,8 +46,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/flutter_notes/code_practice/best_coding_pratice_to_follow_in_oceanmtech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/flutter_notes/code_practice/best_coding_pratice_to_follow_in_oceanmtech.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,53 +164,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f71e8a0ead85061d",
+  "active": "96b8504379782a63",
   "lastOpenFiles": [
-    "docs/flutter_notes/code_practice/explaination/analyse_and_format_your_code.md",
-    "docs/flutter_notes/code_practice/explaination/document_your_code.md",
-    "docs/flutter_notes/code_practice/explaination/avoid_deep_widget_nesting.md",
-    "docs/flutter_notes/code_practice/explaination/follow_the_dart_style_guide.md",
-    "docs/flutter_notes/code_practice/explaination/keep_ui_and_business_logic_seprated.md",
-    "docs/flutter_notes/code_practice/explaination/organize_code_into_small_functions_and_classes.md",
-    "docs/flutter_notes/code_practice/explaination/properly_comment_your_code.md",
-    "docs/flutter_notes/code_practice/explaination/stay_up_to_date.md",
-    "docs/flutter_notes/code_practice/explaination/test_your_code.md",
-    "docs/flutter_notes/code_practice/explaination/use_descriptive_variable_and_function_names.md",
-    "docs/flutter_notes/code_practice/explaination/use_flutter_devtools.md",
-    "docs/flutter_notes/code_practice/explaination/use_proper_widget_composition.md",
-    "docs/flutter_notes/code_practice/explaination/use_version_control.md",
-    "docs/flutter_notes/code_practice/best_coding_pratice_to_follow_in_oceanmtech.md",
-    "README.md",
-    "docs/flutter_notes/code_practice/Explaination/dart_programming_writing_rules.md",
-    "docs/flutter_notes/code_practice/Explain Use Descriptive Variable and Function Names.md",
-    "site/search/search_index.json",
-    "site/search",
-    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper/Getting Started./index.html",
-    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper/Getting Started.",
-    "site/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper",
-    "site/Parth Notes/Pre-Requisites/Linux Journeys",
-    "site/Parth Notes/Pre-Requisites",
-    "site/Parth Notes",
-    "site/Notes/Static Site Generators/Static Site Generators/index.html",
-    "site/Notes/Static Site Generators/Portfolio/index.html",
-    "site/assets/images/favicon.png",
-    "site/Notes/attachments/Pasted image 20220926132925.png",
-    "site/Notes/attachments/Pasted image 20220926130250.png",
-    "site/Notes/attachments/Pasted image 20220926122851.png",
-    "site/Notes/attachments/Pasted image 20220923222223.png",
-    "site/Notes/attachments/Pasted image 20220923184838.png",
-    "site/Notes/attachments/Pasted image 20220923184423.png",
-    "site/Notes/attachments/Pasted image 20220923184027.png",
-    "site/Notes/attachments/Pasted image 20220923183645.png",
-    "site/Notes/attachments/Pasted image 20220923170352.png",
-    "docs/index.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Use Proper Widget Composition.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Use Flutter DevTools.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Test Your Code.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Stay Up-to-Date.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Keep UI and Business Logic Separated.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Version Control.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Descriptive Variable and Function Names.md",
-    "docs/Flutter Notes/Code Practice/Explaination/Explain Properly Comment Your Code.md"
+    "docs/flutter_notes/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
+    "docs/flutter_notes/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
+    "docs/flutter_notes/flutter_tips/0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md",
+    "docs/flutter_notes/flutter_tips/0020-how-to-configure-multiple-firebase-environments-with-flutterfire-cli/index.md",
+    "docs/flutter_notes/flutter_tips/0009-chat-ui-with-message-bubbles-revisited/index.md",
+    "docs/flutter_notes/flutter_tips/0030-vscode-launch-configurations/index.md",
+    "docs/flutter_notes/flutter_tips/0024-simplified-flutter-app-localization/index.md",
+    "docs/flutter_notes/flutter_tips/0029-domain-driven-exception-handling/index.md",
+    "docs/flutter_notes/flutter_tips/0021-repositories-as-abstract-classes/index.md",
+    "docs/flutter_notes/flutter_tips/0032-flutter-tip-use-composition-aggressively/index.md",
+    "docs/flutter_notes/flutter_tips/0027-better-comments-extension-for-vscode/index.md",
+    "docs/flutter_notes/flutter_tips/0074-pass-functions-as-arguments/index.md",
+    "docs/flutter_notes/flutter_tips/0069-sizedbox-shrink/index.md",
+    "docs/flutter_notes/flutter_tips/0071-const-vs-final-vs-var/index.md",
+    "docs/flutter_notes/flutter_tips/0077-animatedcontainer/index.md",
+    "docs/flutter_notes/flutter_tips/0076-sticky-scroll-vscode/index.md",
+    "docs/flutter_notes/flutter_tips/0083-version-lens-vscode/index.md",
+    "docs/flutter_notes/flutter_tips/0079-string-multiplication/index.md",
+    "docs/flutter_notes/flutter_tips/0078-file-nesting-vscode/index.md",
+    "docs/flutter_notes/flutter_tips/0080-future.wait/index.md",
+    "docs/flutter_notes/flutter_tips/0085-chatgpt-styling/index.md",
+    "docs/flutter_notes/flutter_tips/0086-firebase-docs-dart-samples/index.md",
+    "docs/flutter_notes/flutter_tips/0003-accept-payments-with-the-stripe-sdk/index.md",
+    "docs/flutter_notes/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
+    "docs/flutter_notes/flutter_tips/0087-accessibility-tools/index.md",
+    "docs/flutter_notes/flutter_tips/0091-dart-fix-apply/index.md",
+    "docs/flutter_notes/flutter_tips/0114-minimize-firebase-bill/index.md",
+    "docs/flutter_notes/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
+    "docs/flutter_notes/flutter_tips/0119-constructor-required-named-vsassist/119.png",
+    "docs/flutter_notes/flutter_tips/0120-set-html-window-url/main.dart",
+    "docs/flutter_notes/flutter_tips/0120-set-html-window-url/120.png",
+    "docs/flutter_notes/flutter_tips/0117-are-global-variables-bad/main.dart",
+    "docs/flutter_notes/flutter_tips/0117-are-global-variables-bad/117.png",
+    "docs/flutter_notes/flutter_tips/0116-measure-time/116.1.png",
+    "docs/flutter_notes/flutter_tips/0118-network-view-devtools/118.png",
+    "docs/flutter_notes/flutter_tips/0116-measure-time/main.dart",
+    "docs/flutter_notes/flutter_tips/0116-measure-time/116.2.png",
+    "docs/flutter_notes/flutter_tips/0116-measure-time/116-square.png",
+    "docs/flutter_notes/flutter_tips/0115-switch-newline/main.dart",
+    "docs/flutter_notes/flutter_tips/0115-switch-newline/115.2.png",
+    "docs/flutter_notes/flutter_tips/0115-switch-newline/115.1.png",
+    "docs/flutter_notes/flutter_tips/0114-minimize-firebase-bill/114.4-square.png",
+    "docs/flutter_notes/flutter_tips/0113-conditional-json-parsing/main.dart",
+    "docs/flutter_notes/flutter_tips/0108-media-query-inherited-model/main.dart",
+    "docs/flutter_notes/flutter_tips/0112-switch-matrix/main.dart",
+    "docs/flutter_notes/flutter_tips/0110-riverpod-watch-future-provider/main.dart"
   ]
 }
