@@ -18,50 +18,13 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
-
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from mkdocs.config.config_options import Type
+from mkdocs.config.base import Config
 
 # -----------------------------------------------------------------------------
-# General
+# Classes
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
-
-# macOS internals
-.DS_Store
-
-# Temporary files
-TODO
-tmp
-
-# IDEs & Editors
-.idea
-*~
+# Offline plugin configuration
+class OfflineConfig(Config):
+    enabled = Type(bool, default = True)

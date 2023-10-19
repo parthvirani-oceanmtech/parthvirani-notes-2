@@ -18,50 +18,31 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
-
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from mkdocs.config.base import Config
+from mkdocs.config.config_options import Deprecated, Type
 
 # -----------------------------------------------------------------------------
-# General
+# Classes
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Social plugin configuration
+class SocialConfig(Config):
+    enabled = Type(bool, default = True)
+    cache_dir = Type(str, default = ".cache/plugin/social")
 
-# macOS internals
-.DS_Store
+    # Settings for social cards
+    cards = Type(bool, default = True)
+    cards_dir = Type(str, default = "assets/images/social")
+    cards_layout_options = Type(dict, default = {})
 
-# Temporary files
-TODO
-tmp
-
-# IDEs & Editors
-.idea
-*~
+    # Deprecated settings
+    cards_color = Deprecated(
+        option_type = Type(dict, default = {}),
+        message =
+            "Deprecated, use 'cards_layout_options.background_color' "
+            "and 'cards_layout_options.color' with 'default' layout"
+    )
+    cards_font = Deprecated(
+        option_type = Type(str),
+        message = "Deprecated, use 'cards_layout_options.font_family'"
+    )

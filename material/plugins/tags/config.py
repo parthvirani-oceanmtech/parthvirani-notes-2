@@ -18,50 +18,21 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
+from functools import partial
+from markdown.extensions.toc import slugify
+from mkdocs.config.config_options import Optional, Type
+from mkdocs.config.base import Config
 
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from . import casefold
 
 # -----------------------------------------------------------------------------
-# General
+# Classes
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Tags plugin configuration
+class TagsConfig(Config):
+    enabled = Type(bool, default = True)
 
-# macOS internals
-.DS_Store
-
-# Temporary files
-TODO
-tmp
-
-# IDEs & Editors
-.idea
-*~
+    # Settings for tags
+    tags = Type(bool, default = True)
+    tags_file = Optional(Type(str))

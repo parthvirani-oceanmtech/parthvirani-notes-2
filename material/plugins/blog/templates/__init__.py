@@ -18,50 +18,25 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
-
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from jinja2 import pass_context
+from jinja2.runtime import Context
+from material.plugins.blog.structure import View
+from mkdocs.utils.templates import url_filter as _url_filter
 
 # -----------------------------------------------------------------------------
-# General
+# Functions
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Filter for normalizing URLs with support for paginated views
+@pass_context
+def url_filter(context: Context, url: str):
+    page = context["page"]
 
-# macOS internals
-.DS_Store
+    # If the current page is a view, check if the URL links to the page
+    # itself, and replace it with the URL of the main view
+    if isinstance(page, View):
+        if page.url == url:
+            url = page.pages[0].url
 
-# Temporary files
-TODO
-tmp
-
-# IDEs & Editors
-.idea
-*~
+    # Forward to original template filter
+    return _url_filter(context, url)

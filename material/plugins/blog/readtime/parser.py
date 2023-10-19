@@ -18,50 +18,28 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
-
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from html.parser import HTMLParser
 
 # -----------------------------------------------------------------------------
-# General
+# Classes
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Readtime parser
+class ReadtimeParser(HTMLParser):
 
-# macOS internals
-.DS_Store
+    # Initialize parser
+    def __init__(self):
+        super().__init__(convert_charrefs = True)
 
-# Temporary files
-TODO
-tmp
+        # Keep track of text and images
+        self.text   = []
+        self.images = 0
 
-# IDEs & Editors
-.idea
-*~
+    # Collect images
+    def handle_starttag(self, tag, attrs):
+        if tag == "img":
+            self.images += 1
+
+    # Collect text
+    def handle_data(self, data):
+        self.text.append(data)

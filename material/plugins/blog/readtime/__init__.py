@@ -18,50 +18,34 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
+import re
 
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
+from math import ceil
 
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from .parser import ReadtimeParser
 
 # -----------------------------------------------------------------------------
-# General
+# Functions
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Compute readtime - we first used the original readtime library, but the list
+# of dependencies it brings with it increased the size of the Docker image by
+# 20 MB (packed), which is an increase of 50%. For this reason, we adapt the
+# original readtime algorithm to our needs - see https://t.ly/fPZ7L
+def readtime(html: str, words_per_minute: int):
+    parser = ReadtimeParser()
+    parser.feed(html)
+    parser.close()
 
-# macOS internals
-.DS_Store
+    # Extract words from text and compute readtime in seconds
+    words = len(re.split(r"\W+", "".join(parser.text)))
+    seconds = ceil(words / words_per_minute * 60)
 
-# Temporary files
-TODO
-tmp
+    # Account for additional images
+    delta = 12
+    for _ in range(parser.images):
+        seconds += delta
+        if delta > 3: delta -= 1
 
-# IDEs & Editors
-.idea
-*~
+    # Return readtime in minutes
+    return ceil(seconds / 60)

@@ -18,50 +18,20 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
+from mkdocs.config.base import Config
+from mkdocs.config.config_options import ListOfItems, Optional, Type
 
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from .options import PostDate
 
 # -----------------------------------------------------------------------------
-# General
+# Classes
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
-
-# macOS internals
-.DS_Store
-
-# Temporary files
-TODO
-tmp
-
-# IDEs & Editors
-.idea
-*~
+# Post configuration
+class PostConfig(Config):
+    authors = ListOfItems(Type(str), default = [])
+    categories = ListOfItems(Type(str), default = [])
+    date = PostDate()
+    draft = Optional(Type(bool))
+    readtime = Optional(Type(int))
+    slug = Optional(Type(str))

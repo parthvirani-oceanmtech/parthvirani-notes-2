@@ -18,50 +18,41 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# -----------------------------------------------------------------------------
-# Node, TypeScript, Python
-# -----------------------------------------------------------------------------
-
-# Dependencies
-node_modules
-__pycache__
-venv
-.venv
-
-# Build files
-build
-site
-
-# Distribution files
-dist
-mkdocs_material.egg-info
-
-# Caches and logs
-*.cpuprofile
-*.log
-*.tsbuildinfo
-.cache
-.eslintcache
-__pycache__
-
-# Examples
-example
-example.zip
+from mkdocs.config.config_options import (
+    Choice,
+    Deprecated,
+    Optional,
+    ListOfItems,
+    Type
+)
+from mkdocs.config.base import Config
+from mkdocs.contrib.search import LangOption
 
 # -----------------------------------------------------------------------------
-# General
+# Options
 # -----------------------------------------------------------------------------
 
-# Never ignore .gitkeep files
-!**/.gitkeep
+# Options for search pipeline
+pipeline = ("stemmer", "stopWordFilter", "trimmer")
 
-# macOS internals
-.DS_Store
+# -----------------------------------------------------------------------------
+# Classes
+# -----------------------------------------------------------------------------
 
-# Temporary files
-TODO
-tmp
+# Search plugin configuration
+class SearchConfig(Config):
+    enabled = Type(bool, default = True)
 
-# IDEs & Editors
-.idea
-*~
+    # Settings for search
+    lang = Optional(LangOption())
+    separator = Optional(Type(str))
+    pipeline = ListOfItems(Choice(pipeline), default = [])
+
+    # Settings for text segmentation (Chinese)
+    jieba_dict = Optional(Type(str))
+    jieba_dict_user = Optional(Type(str))
+
+    # Unsupported settings, originally implemented in MkDocs
+    indexing = Deprecated(message = "Unsupported option")
+    prebuild_index = Deprecated(message = "Unsupported option")
+    min_search_length = Deprecated(message = "Unsupported option")
