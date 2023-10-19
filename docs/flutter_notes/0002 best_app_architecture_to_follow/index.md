@@ -1,24 +1,9 @@
 ---
 created: 2023-10-18T16:38:53+05:30
-updated: 2023-10-19T10:30:28+05:30
----
-created: 2023-10-05T20:39:56+05:30
-updated: 2023-10-18T16:31:42+05:30
----
-
----
-created: 2023-09-15T21:33:06+05:30
-updated: 2023-09-16T13:12:36+05:30
-title: Best Coding Practice to Follow in Oceanmtech
+updated: 2023-10-19T10:39:22+05:30
+title: Best App Architecture Practice to Follow in Oceanmtech
 share: "true"
 ---
-
-
-Research R&D
-
-
-# Scalable App Architecture – [CodeWithAndrea](https://codewithandrea.com/articles/flutter-project-structure/)
-
 
 Clean Architecture + Feature First Moduler
 
@@ -131,6 +116,8 @@ Uper nu je structure che aenu architecture calling nicheni sequence based karvan
 
 
 Read More at:
+
+### Explore More on Scalable App Architecture – [CodeWithAndrea](https://codewithandrea.com/articles/flutter-project-structure/)
 
 1. https://github.com/md-siam/scalable_app_architecture?ref=flutterawesome.com
 2. https://flutterawesome.com/a-modular-app-architecture-that-can-be-scalable-as-the-time-passes/
