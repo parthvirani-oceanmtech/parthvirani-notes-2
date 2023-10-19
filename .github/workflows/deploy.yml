@@ -72,6 +72,7 @@ jobs:
         run: |
           pip install mkdocs-material
           pip install mkdocs-material[recommended,git,imaging]
+          pip3 install requirements.txt
 
 
       - name: Build documentation
