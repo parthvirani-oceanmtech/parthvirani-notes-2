@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a414a45ce3bfec2",
+        "id": "036964c7306d9b13",
         "type": "tabs",
         "children": [
           {
-            "id": "b69e6ee1dcedd120",
+            "id": "f8dc2ec2782bc769",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,15 +172,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f71e8a0ead85061d",
+  "active": "f8dc2ec2782bc769",
   "lastOpenFiles": [
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/0002-best-app-architecture-to-follow.md",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0002-best-app-architecture-to-follow.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0001-best-coding-pratice-to-follow-in-oceanmtech.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/keep_ui_and_business_logic_seprated.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/analyse_and_format_your_code.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
-    "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
     "docs/tags.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/Untitled.md",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
@@ -210,9 +213,6 @@
     "docs/flutter_tips/0021-repositories-as-abstract-classes/index.md",
     "docs/flutter_tips/0032-flutter-tip-use-composition-aggressively/index.md",
     "docs/flutter_tips/0027-better-comments-extension-for-vscode/index.md",
-    "docs/flutter_tips/0074-pass-functions-as-arguments/index.md",
-    "docs/flutter_tips/0069-sizedbox-shrink/index.md",
-    "docs/flutter_tips/0071-const-vs-final-vs-var/index.md",
     "docs/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
     "docs/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
     "docs/flutter_tips/0120-set-html-window-url/main.dart",
