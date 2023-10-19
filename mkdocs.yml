@@ -1,7 +1,7 @@
 site_name: Parth Virani Notes # Change this to your site name
 site_description: A cool notes to share your flutter developement future.
 
-site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/ # Change this to your site URL
+site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/ # Change this to your site URL
 
 theme:
     name: 'material'
@@ -174,7 +174,7 @@ extra_css:
 
 extra:
   SEO: assets/meta/SEO.png
-  homepage: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/ 
+  homepage: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/ 
   comments: false #disable comments globally
   generate_graph: true #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
