@@ -5,7 +5,7 @@ site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes-2/ # Change
 
 theme:
     name: 'material'
-    custom_dir: overrides
+    custom_dir: material/overrides
     font:
         text: Ubuntu
         code: Ubuntu Mono
@@ -163,9 +163,9 @@ plugins:
   - callouts
   - glightbox
 hooks:
-  - overrides/hooks/on_page_markdown.py
-  - overrides/hooks/on_env.py
-  - overrides/hooks/on_files.py
+  - material/overrides/hooks/shortcodes.py
+  - material/overrides/hooks/translations.py
+
 extra_javascript:
   - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6

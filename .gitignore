@@ -22,6 +22,8 @@
 # Node, TypeScript, Python
 # -----------------------------------------------------------------------------
 
+material/templates/.icons
+material/plugins
 # Dependencies
 node_modules
 __pycache__
