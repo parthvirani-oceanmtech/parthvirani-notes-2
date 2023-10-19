@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md"
+                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md"
               }
             }
           },
@@ -174,8 +174,29 @@
   },
   "active": "f8dc2ec2782bc769",
   "lastOpenFiles": [
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
+    "site/assets/javascripts/glightbox.min.js",
+    "site/assets/stylesheets/glightbox.min.css",
+    "site/assets/javascripts/decrypt-contents.js",
+    "site/search/search_index.json",
+    "site/search",
+    "site/flutter_tips/0120-set-html-window-url/index.html",
+    "site/flutter_tips/0119-constructor-required-named-vsassist/index.html",
+    "site/flutter_tips/0118-network-view-devtools/index.html",
+    "site/flutter_tips/0117-are-global-variables-bad/index.html",
+    "site/flutter_tips/0116-measure-time/index.html",
+    "site/flutter_tips/0115-switch-newline/index.html",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+    "site/flutter_tips/0118-network-view-devtools/118.png",
+    "site/flutter_tips/0111-destructure-lists-dart/111.1.png",
+    "site/flutter_tips/0111-destructure-lists-dart/111.2.png",
+    "site/flutter_tips/0111-destructure-lists-dart/111-square.png",
+    "site/flutter_tips/0109-records-equality/109.2-rect.png",
+    "site/flutter_tips/0109-records-equality/109.2-square.png",
+    "site/flutter_tips/0109-records-equality/109.1-rect.png",
+    "site/flutter_tips/0109-records-equality/109.1-square.png",
+    "site/flutter_tips/0108-media-query-inherited-model/108.png",
+    "site/flutter_tips/0108-media-query-inherited-model/108-square.png",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_version_control.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/document_your_code.md",
@@ -188,26 +209,6 @@
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_proper_widget_composition.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/properly_comment_your_code.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/organize_code_into_small_functions_and_classes.md",
-    "material/overrides/assets/images/illustration.jpg",
-    "material/overrides/assets/images/illustration.png",
-    "material/overrides/assets/images/favicon.png",
-    "material/overrides/assets/images",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_keys.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_highlight.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_tasklist.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_tabbed.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_emoji.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_details.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_critic.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/pymdownx/_arithmatex.scss",
-    "material/overrides/assets/assets/stylesheets/main/extensions/markdown/_toc.scss",
-    "material/overrides/assets/assets/images/illustration.png",
-    "material/overrides/assets/assets/images/favicon.png",
-    "src/overrides/assets/assets/images/illustration.png",
-    "src/overrides/assets/assets/images/favicon.png",
-    "src/templates/assets/images/illustration.png",
-    "src/templates/assets/images/logo-removebg-preview.png",
-    "src/templates/assets/images/logo.png",
     "docs/index.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/0002-best-app-architecture-to-follow.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
@@ -218,7 +219,6 @@
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
     "docs/flutter_notes/flutter_tips/index.md",
     "docs/flutter_tips/0004-flutter-lints-package/index.md",
-    "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
-    "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md"
+    "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md"
   ]
 }
