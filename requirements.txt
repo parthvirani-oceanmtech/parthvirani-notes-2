@@ -1,4 +1,4 @@
-mkdocs-material==9.3.1
+mkdocs-material==9.4.6
 mkdocs-ezlinked-plugin==0.3.3
 mkdocs-awesome-pages-plugin==2.9.2
 mdx_breakless_lists==1.0.1
@@ -32,3 +32,4 @@ paginate~=0.5
 regex>=2022.4
 requests~=2.26
 mkdocs-ezlinks-plugin==0.1.14
+pymdown-extensions==10.3
