@@ -123,14 +123,13 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
   - toc:
       permalink: true
   - pymdownx.inlinehilite
 
 plugins:
-  - blog
   - social
   - search
   - git-revision-date-localized:
@@ -147,8 +146,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
@@ -189,11 +186,6 @@ extra:
       link: https://twitter.com/parthvirani95?lang=en
     - icon: fontawesome/brands/linkedin
       link: https://in.linkedin.com/in/parthvirani/
-  blog_list:
-    pagination: true #enable pagination
-    pagination_message: true #display the message "Showing x posts out of y"
-    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
-    no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
   hooks:
     strip_comments: true
     fix_heading: true
