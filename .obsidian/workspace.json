@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d70f50247aa6e1a",
+        "id": "9a414a45ce3bfec2",
         "type": "tabs",
         "children": [
           {
-            "id": "52553cf932e7095b",
+            "id": "b69e6ee1dcedd120",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,11 +172,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "52553cf932e7095b",
+  "active": "f71e8a0ead85061d",
   "lastOpenFiles": [
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/use_descriptive_variable_and_function_names.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/analyse_and_format_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/keep_ui_and_business_logic_seprated.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/analyse_and_format_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
     "docs/tags.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/Untitled.md",
@@ -194,8 +197,7 @@
     "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments",
     "docs/flutter_notes/0002-best-app-architecture-to-follow",
     "docs/flutter_notes/flutter_tips/index.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/avoid_deep_widget_nesting.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/keep_ui_and_business_logic_seprated.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/avoid_deep_widget_nesting.md",
     "docs/flutter_tips/0004-flutter-lints-package/index.md",
     "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
     "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
@@ -211,14 +213,12 @@
     "docs/flutter_tips/0074-pass-functions-as-arguments/index.md",
     "docs/flutter_tips/0069-sizedbox-shrink/index.md",
     "docs/flutter_tips/0071-const-vs-final-vs-var/index.md",
-    "docs/flutter_tips/0077-animatedcontainer/index.md",
     "docs/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
     "docs/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
     "docs/flutter_tips/0120-set-html-window-url/main.dart",
     "docs/flutter_tips/0117-are-global-variables-bad/main.dart",
     "docs/flutter_tips/0116-measure-time/main.dart",
     "docs/flutter_tips/0115-switch-newline/main.dart",
-    "docs/flutter_tips/0113-conditional-json-parsing/main.dart",
-    "docs/flutter_tips/0108-media-query-inherited-model/main.dart"
+    "docs/flutter_tips/0113-conditional-json-parsing/main.dart"
   ]
 }

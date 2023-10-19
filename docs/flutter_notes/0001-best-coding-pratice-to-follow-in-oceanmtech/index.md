@@ -1,6 +1,6 @@
 ---
 created: 2023-09-15T21:33:06+05:30
-updated: 2023-09-16T13:12:36+05:30
+updated: 2023-10-19T10:57:01+05:30
 title: Best Coding Practice to Follow in Oceanmtech
 share: "true"
 ---
@@ -28,33 +28,33 @@ share: "true"
 	- [Dart Programming Writing Rules](https://dart.dev/effective-dart/style#formatting) (Read & Implement karvanu che)   
 7. OceanMTech na aek pan flutter developer ne jyare code write karta hoy tyare keyboard same jovu na padvu jove aena mate typing speed mate ni daily pratice karvani che and biju keyabord and mouse ni click fast action ma perform thay ae mandatory che.
 8. Jyare code write karo cho aena file name and file location always yad rakhvana and aej rite function name variable name ae pan yad rakhvana and aena name pan function na according j lakhvana jenathi jyare ae module nu logic update thay tyare direct file name par thi ae file par jay shakay because jyare projects ma 1000 files hoy tyare manually find karvi ae time consuming process che.
-9. [[use_descriptive_variable_and_function_names|Use Descriptive Variable and Function Names]]:  
+9. [[explanation/use_descriptive_variable_and_function_names|Use Descriptive Variable and Function Names]]:  
 	- koi pan variables, functions, classes and widget na name descriptive choose karvana reshe, je aapane code vadhu samajavama and bija pan easy way ma samji shake and in future aapde aa project par return work start karvi to samajava mate easy reshe. so single-letter or cryptic variable names ne avoid karvu jaruri che, nichenu exaple refer karvu more details mate.
-10. [[organize_code_into_small_functions_and_classes|Organize Code into Small Functions and Classes]]:
+10. [[explanation/organize_code_into_small_functions_and_classes|Organize Code into Small Functions and Classes]]:
 	- Je pan code write karo ae small, reusable function and classes ma hovo jaruri che because function find karva ae more easy che instead code find karvo, so aa pratice aek code ne readability and maintainability banavi aape che, and flutter ma widgets ae aek good example che jema aa pratice follow thayeli che.
-11. [[properly_comment_your_code|Explain Properly Comment Your Code]]:
+11. [[explanation/properly_comment_your_code|Explain Properly Comment Your Code]]:
 	-  Je pan function create karo aeni uper comment kari ne aeno use explain karvano jenathi code understand karvo easy pade. and /// no use karavano jyare class methods and functions nu documentation write karo tyare.
 	- For example jo flutter ae aenu documentation j na banavyu hot to aapde shikhva mate ketlu hard thay so better che ke properly comment karvani code ma.
-12. [[use_proper_widget_composition|Use Proper Widget Composition]]: 
+12. [[explanation/use_proper_widget_composition|Use Proper Widget Composition]]: 
 	- aapde flutter ma jyare user interfaces(UI) banavi ae tyare aena widget ne composing(Smalled Blocks) kari ne banavviae ae j best pratice che.
 	- widget ni hierarchy create karvathi complex ui ne pan easy way ma write kari shakay che. 
 	- everytime setState and provider no nana functions mate use nai karvano so better che aene seprate design kari ne aena buildcontext and updates ne control karvanu.
-13. [[avoid_deep_widget_nesting|avoid_deep_widget_nesting]]: 
+13. [[explanation/avoid_deep_widget_nesting|avoid_deep_widget_nesting]]: 
 	- Deep widget nesting means aek widget ni niche second and second ni niche third and third ni niche forth and so on. (example: ListView.builder)
 	- Deep widget nesting ae code read and maintain karvama problem create karshe means aene samajvo ae hard thay jay che, so tamne jyare aevu lage ke bow batha widget nested thay che tyare aene smaller widget ma break karvanu consider karvu jove.
-14. [[keep_ui_and_business_logic_seprated|Keep UI and Business Logic Separated]]: 
+14. [[explanation/keep_ui_and_business_logic_seprated|Keep UI and Business Logic Separated]]: 
 	- Separate your UI code from your business logic. This can help with testing and code maintainability. Consider using packages like bloc(preferred) or provider for state management.
-15. [[use_flutter_devtools|Use Flutter DevTools]]: 
+15. [[explanation/use_flutter_devtools|Use Flutter DevTools]]: 
 	- Flutter provides a powerful set of tools for debugging and profiling your application. Familiarize yourself with Flutter DevTools to help identify and resolve issues in your code efficiently.
-16. [[test_your_code|Test Your Code]]:
+16. [[explanation/test_your_code|Test Your Code]]:
 	- Write unit tests and widget tests to ensure that your code functions as expected. Flutter has built-in support for testing, making it easy to write and run tests.
-17.  [[stay_up_to_date|Stay Up-to-Date]]:
+17.  [[explanation/stay_up_to_date|Stay Up-to-Date]]:
 	- Flutter is an evolving framework, and best practices can change over time. Keep up-to-date with Flutter updates, new packages, and community recommendations to improve your code quality.
-18. [[analyse_and_format_your_code|Analyse and Format Your Code]]:
+18. [[explanation/analyse_and_format_your_code|Analyse and Format Your Code]]:
 	- Use tools like dart analyse and dart format to ensure your code adheres to best practices and formatting guidelines.
-21. [[document_your_code|Document Your Code]]:
+21. [[explanation/document_your_code|Document Your Code]]:
 	- Use documentation comments to describe the purpose, parameters, and return values of functions and classes. This helps other developers understand how to use your code.
-22. [[use_version_control|Use Version Control]]:
+22. [[explanation/use_version_control|Use Version Control]]:
 	- Always use version control systems like Git to track changes in your code. This helps you collaborate with others and revert changes if needed.
     
 Remember that good code practices may vary depending on the project and team, but these guidelines can serve as a solid foundation for writing clean and maintainable Flutter code.
