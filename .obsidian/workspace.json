@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -174,6 +174,20 @@
   },
   "active": "f8dc2ec2782bc769",
   "lastOpenFiles": [
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_version_control.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/document_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/analyse_and_format_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/stay_up_to_date.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/test_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_flutter_devtools.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/keep_ui_and_business_logic_seprated.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/avoid_deep_widget_nesting.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_proper_widget_composition.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/properly_comment_your_code.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/organize_code_into_small_functions_and_classes.md",
     "material/overrides/assets/images/illustration.jpg",
     "material/overrides/assets/images/illustration.png",
     "material/overrides/assets/images/favicon.png",
@@ -195,30 +209,16 @@
     "src/templates/assets/images/logo-removebg-preview.png",
     "src/templates/assets/images/logo.png",
     "docs/index.md",
-    "src/templates/assets/images/favicon.png",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/0002-best-app-architecture-to-follow.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0002-best-app-architecture-to-follow.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0001-best-coding-pratice-to-follow-in-oceanmtech.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/keep_ui_and_business_logic_seprated.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/analyse_and_format_your_code.md",
     "docs/tags.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/Untitled.md",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
     "docs/flutter_notes/flutter_tips/index.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/avoid_deep_widget_nesting.md",
     "docs/flutter_tips/0004-flutter-lints-package/index.md",
     "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
-    "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
-    "docs/flutter_tips/0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md",
-    "docs/flutter_tips/0020-how-to-configure-multiple-firebase-environments-with-flutterfire-cli/index.md",
-    "docs/flutter_tips/0009-chat-ui-with-message-bubbles-revisited/index.md",
-    "docs/flutter_tips/0030-vscode-launch-configurations/index.md",
-    "docs/flutter_tips/0024-simplified-flutter-app-localization/index.md",
-    "docs/flutter_tips/0029-domain-driven-exception-handling/index.md",
-    "docs/flutter_tips/0021-repositories-as-abstract-classes/index.md"
+    "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md"
   ]
 }
