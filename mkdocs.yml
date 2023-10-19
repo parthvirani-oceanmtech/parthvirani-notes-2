@@ -113,7 +113,6 @@ markdown_extensions:
   - meta
   - smarty
   - tables
-  - mdx_breakless_lists
   - def_list
   - pymdownx.arithmatex:
       generic: true
@@ -134,7 +133,6 @@ plugins:
   - blog
   - social
   - search
-  - meta-descriptions
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
