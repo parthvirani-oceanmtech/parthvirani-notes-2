@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "971aa3a037bee37d",
+        "id": "8d70f50247aa6e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "fd632a5fc8f7b8d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/flutter_notes/app_architecture/best_app_architecture_to_follow.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a6f303d2d5dbac9",
+            "id": "52553cf932e7095b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +172,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9a6f303d2d5dbac9",
+  "active": "52553cf932e7095b",
   "lastOpenFiles": [
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018164330.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142925.png",
+    "docs/flutter_notes/app_architecture/best_app_architecture_to_follow.md",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142943.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142950.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142933.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142910.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142916.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142957.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142903.png",
+    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231018142845.png",
     "docs/flutter_notes/code_practice/best_coding_pratice_to_follow_in_oceanmtech.md",
     "docs/flutter_notes/app_architecture/attachments/Pasted image 20231005203846.png",
-    "docs/flutter_notes/app_architecture/attachments/Pasted image 20231005203824.png",
     "docs/flutter_notes/app_architecture/attachments",
-    "docs/flutter_notes/app_architecture/best_app_architecture_to_follow.md",
     "docs/tags.md",
     "docs/flutter_notes/app_architecture",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
@@ -218,18 +214,10 @@
     "docs/flutter_tips/0083-version-lens-vscode/index.md",
     "docs/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
     "docs/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
-    "docs/flutter_tips/0119-constructor-required-named-vsassist/119.png",
     "docs/flutter_tips/0120-set-html-window-url/main.dart",
-    "docs/flutter_tips/0120-set-html-window-url/120.png",
     "docs/flutter_tips/0117-are-global-variables-bad/main.dart",
-    "docs/flutter_tips/0117-are-global-variables-bad/117.png",
-    "docs/flutter_tips/0116-measure-time/116.1.png",
-    "docs/flutter_tips/0118-network-view-devtools/118.png",
     "docs/flutter_tips/0116-measure-time/main.dart",
-    "docs/flutter_tips/0116-measure-time/116.2.png",
-    "docs/flutter_tips/0116-measure-time/116-square.png",
     "docs/flutter_tips/0115-switch-newline/main.dart",
-    "docs/flutter_tips/0115-switch-newline/115.2.png",
     "docs/flutter_tips/0113-conditional-json-parsing/main.dart",
     "docs/flutter_tips/0108-media-query-inherited-model/main.dart"
   ]
