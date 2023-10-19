@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/flutter_notes/0002 best_app_architecture_to_follow/index.md",
+                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/flutter_notes/0002 best_app_architecture_to_follow/index.md",
+                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/flutter_notes/0002 best_app_architecture_to_follow/index.md"
+                "file": "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md"
               }
             }
           },
@@ -174,25 +174,28 @@
   },
   "active": "52553cf932e7095b",
   "lastOpenFiles": [
-    "docs/flutter_notes/0001 best_coding_pratice_to_follow_in_oceanmtech/index.md",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/index.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/use_descriptive_variable_and_function_names.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/analyse_and_format_your_code.md",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
+    "docs/tags.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/Untitled.md",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/002_split_view.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018164330.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142925.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142943.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142950.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142933.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142910.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142916.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142957.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments/Pasted image 20231018142903.png",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow/attachments",
-    "docs/tags.md",
-    "docs/flutter_notes/0002 best_app_architecture_to_follow",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018164330.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142925.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142943.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142950.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142933.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142910.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142916.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142957.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments/Pasted image 20231018142903.png",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/attachments",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow",
     "docs/flutter_notes/flutter_tips/index.md",
-    "docs/flutter_notes/0001 best_coding_pratice_to_follow_in_oceanmtech/explaination/avoid_deep_widget_nesting.md",
-    "docs/flutter_notes/0001 best_coding_pratice_to_follow_in_oceanmtech/explaination/keep_ui_and_business_logic_seprated.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/avoid_deep_widget_nesting.md",
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/keep_ui_and_business_logic_seprated.md",
     "docs/flutter_tips/0004-flutter-lints-package/index.md",
     "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md",
     "docs/flutter_tips/0038-popular-architectures-for-flutter-development/index.md",
@@ -209,8 +212,6 @@
     "docs/flutter_tips/0069-sizedbox-shrink/index.md",
     "docs/flutter_tips/0071-const-vs-final-vs-var/index.md",
     "docs/flutter_tips/0077-animatedcontainer/index.md",
-    "docs/flutter_tips/0076-sticky-scroll-vscode/index.md",
-    "docs/flutter_tips/0083-version-lens-vscode/index.md",
     "docs/flutter_tips/0003-accept-payments-with-the-stripe-sdk/004_stripe-test.mp4",
     "docs/flutter_tips/0119-constructor-required-named-vsassist/main.dart",
     "docs/flutter_tips/0120-set-html-window-url/main.dart",
