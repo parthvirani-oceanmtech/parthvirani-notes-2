@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "036964c7306d9b13",
+        "id": "5401f2c40640e87d",
         "type": "tabs",
         "children": [
           {
-            "id": "f8dc2ec2782bc769",
+            "id": "8dcca372f0d1def1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
+                "file": "docs/flutter_notes/0003-bloc-state-managment/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d0af36ae4a5ca0f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
+                "file": "docs/flutter_notes/0003-bloc-state-managment/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md"
+                "file": "docs/flutter_notes/0003-bloc-state-managment/index.md"
               }
             }
           },
@@ -172,8 +173,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f8dc2ec2782bc769",
+  "active": "8dcca372f0d1def1",
   "lastOpenFiles": [
+    "docs/flutter_notes/0003-bloc-state-managment/attachments/Pasted image 20231021133815.png",
+    "docs/flutter_notes/0003-bloc-state-managment/attachments",
+    "docs/flutter_notes/0003-bloc-state-managment/index.md",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
+    "docs/flutter_notes/0003-bloc-state-managment",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.md",
+    "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.canvas",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/assets/javascripts/decrypt-contents.js",
@@ -182,9 +190,6 @@
     "site/flutter_tips/0120-set-html-window-url/index.html",
     "site/flutter_tips/0119-constructor-required-named-vsassist/index.html",
     "site/flutter_tips/0118-network-view-devtools/index.html",
-    "site/flutter_tips/0117-are-global-variables-bad/index.html",
-    "site/flutter_tips/0116-measure-time/index.html",
-    "site/flutter_tips/0115-switch-newline/index.html",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
     "site/flutter_tips/0118-network-view-devtools/118.png",
     "site/flutter_tips/0111-destructure-lists-dart/111.1.png",
@@ -211,14 +216,11 @@
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/organize_code_into_small_functions_and_classes.md",
     "docs/index.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/0002-best-app-architecture-to-follow.md",
-    "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0002-best-app-architecture-to-follow.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0001-best-coding-pratice-to-follow-in-oceanmtech.md",
     "docs/tags.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/Untitled.md",
     "docs/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md",
-    "docs/flutter_notes/flutter_tips/index.md",
-    "docs/flutter_tips/0004-flutter-lints-package/index.md",
-    "docs/flutter_tips/0037-rules-to-follow-for-good-app-architecture/index.md"
+    "docs/flutter_notes/flutter_tips/index.md"
   ]
 }

@@ -10,5 +10,8 @@
   "remotely-save",
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-mkdocs-publisher",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-format-code",
+  "obsidian-plugin-prettier"
 ]
