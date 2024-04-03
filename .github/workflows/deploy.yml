@@ -25,7 +25,7 @@ on:
       - main
 
 env:
-  PYTHON_VERSION: 3.x
+  PYTHON_VERSION: 3.10
 
 permissions:
   contents: write
@@ -37,7 +37,6 @@ jobs:
     name: Build documentation
     runs-on: ubuntu-latest
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -49,7 +48,7 @@ jobs:
             src/templates/partials/languages
 
       - name: Set up Python runtime
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: pip
@@ -70,10 +69,9 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install mkdocs-material
-          pip install mkdocs-material[recommended,git,imaging]
+          pip3 install mkdocs-material
+          pip3 install mkdocs-material[recommended,git,imaging]
           pip3 install -r requirements.txt
-
 
       - name: Build documentation
         env:
