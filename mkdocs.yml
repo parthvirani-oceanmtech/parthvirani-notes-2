@@ -59,7 +59,7 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - social
+  - social: 8.5.0
   - search
   - git-revision-date-localized:
       type: date
