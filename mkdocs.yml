@@ -90,9 +90,6 @@ plugins:
   - glightbox
 
 hooks:
-  - material/overrides/hooks/shortcodes.py
-  - material/overrides/hooks/translations.py
-  - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py
   - overrides/hooks/on_files.py
 
