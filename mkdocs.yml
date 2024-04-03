@@ -60,7 +60,8 @@ theme:
 
 plugins:
   - social:
-      cards_font: Roboto
+      cards_layout_options:
+        font_family: Ubuntu
   - search
   - git-revision-date-localized:
       type: date
