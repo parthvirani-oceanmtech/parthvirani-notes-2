@@ -165,8 +165,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "505dc039fb6d0bf8",
+  "active": "f71e8a0ead85061d",
   "lastOpenFiles": [
+    "runtime copy.txt",
+    "ruff.toml",
+    "generate_template.py",
+    "find_unused_media copy.py",
+    "requirements_actions.txt",
     "docs/flutter_tips/0002-flutter-create-sample/index.md",
     "docs/flutter_tips/0002-flutter-create-sample/003_local_project_code_sample.png",
     "site/flutter_tips/0002-flutter-create-sample/003_local_project_code_sample.png",
@@ -189,13 +194,9 @@
     "docs/flutter_notes/0003-bloc-state-managment/index.md",
     "README.md",
     "docs/flutter_notes/0004-firebase-analaytics.md",
-    "docs/flutter_notes/0004-firebase-analytics",
-    "docs/flutter_notes/0003-bloc-state-managment/attachments",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/index.md",
-    "docs/flutter_notes/0003-bloc-state-managment",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.canvas",
-    "site/assets/javascripts/glightbox.min.js",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
@@ -212,7 +213,6 @@
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/organize_code_into_small_functions_and_classes.md",
     "docs/index.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/0002-best-app-architecture-to-follow.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0002-best-app-architecture-to-follow.md",
-    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0001-best-coding-pratice-to-follow-in-oceanmtech.md"
+    "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/0002-best-app-architecture-to-follow.md"
   ]
 }
