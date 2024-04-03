@@ -59,7 +59,8 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - social: 8.5.0
+  - social:
+      cards_font: Roboto
   - search
   - git-revision-date-localized:
       type: date
