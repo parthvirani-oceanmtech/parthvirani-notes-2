@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f43a3646bffb2def",
+        "id": "138c40e78da65665",
         "type": "tabs",
         "children": [
           {
-            "id": "f06a1204af0668df",
+            "id": "505dc039fb6d0bf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/flutter_notes/0004-firebase-analytics/index.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/flutter_notes/0004-firebase-analytics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/flutter_notes/0004-firebase-analytics/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,13 +165,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f71e8a0ead85061d",
+  "active": "505dc039fb6d0bf8",
   "lastOpenFiles": [
+    "docs/flutter_tips/0002-flutter-create-sample/index.md",
+    "docs/flutter_tips/0002-flutter-create-sample/003_local_project_code_sample.png",
+    "site/flutter_tips/0002-flutter-create-sample/003_local_project_code_sample.png",
+    "site/flutter_tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/002_split_view.png",
+    "docs/flutter_notes/0004-firebase-analytics/index.md",
     "Untitled",
     "docs/full_stack_development/Javascript",
     "docs/full_stack_development/CSS",
     "docs/full_stack_development/C.md",
-    "docs/flutter_notes/0004-firebase-analytics/index.md",
     "docs/full_stack_development/HTML Basics",
     "docs/full_stack_development",
     "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214175501.png",
@@ -188,9 +185,6 @@
     "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214174953.png",
     "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214174809.png",
     "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214174639.png",
-    "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214174433.png",
-    "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214173627.png",
-    "docs/flutter_notes/0004-firebase-analytics/attachments/Pasted image 20231214173513.png",
     "docs/flutter_notes/0004-firebase-analytics/attachments",
     "docs/flutter_notes/0003-bloc-state-managment/index.md",
     "README.md",
@@ -202,7 +196,6 @@
     "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.md",
     "docs/flutter_notes/0002-best-app-architecture-to-follow/Untitled.canvas",
     "site/assets/javascripts/glightbox.min.js",
-    "site/assets/stylesheets/glightbox.min.css",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/index.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/follow_the_dart_style_guide.md",
     "docs/flutter_notes/0001-best-coding-pratice-to-follow-in-oceanmtech/explanation/use_descriptive_variable_and_function_names.md",
