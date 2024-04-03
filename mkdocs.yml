@@ -59,9 +59,9 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - social:
-      cards_layout_options:
-        font_family: Ubuntu
+  # - social:
+  #     cards_layout_options:
+  #       font_family: Ubuntu
   - search
   - git-revision-date-localized:
       type: date
@@ -114,13 +114,13 @@ extra:
   generate_graph: true #generate the graph of the site
   attachments: "assets/img" #path to the folder where the attachments are stored
   no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/parthvirani-oceanmtech/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/parthvirani95?lang=en
-    - icon: fontawesome/brands/linkedin
-      link: https://in.linkedin.com/in/parthvirani/
+  # social:
+  #   - icon: fontawesome/brands/github-alt
+  #     link: https://github.com/parthvirani-oceanmtech/
+  #   - icon: fontawesome/brands/twitter
+  #     link: https://twitter.com/parthvirani95?lang=en
+  #   - icon: fontawesome/brands/linkedin
+  #     link: https://in.linkedin.com/in/parthvirani/
   hooks:
     strip_comments: true
     fix_heading: true
